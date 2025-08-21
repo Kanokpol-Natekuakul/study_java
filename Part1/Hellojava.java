@@ -1,3 +1,4 @@
+package Part1;
 class Hellojava{
   public static void main(VarS[] args) {
     System.out.print("Hello"); //ไม่ขึ้นบรรทัดใหม่

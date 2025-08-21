@@ -1,3 +1,4 @@
+package Part1;
 class Variable{
   public static void main(VarS[] args) {
     //ตัวแปร

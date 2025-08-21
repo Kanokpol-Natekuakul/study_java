@@ -1,3 +1,4 @@
+package Part1;
 class Var{
   public static void main(VarS[] args) {
     System.out.println(Long.MAX_VALUE);

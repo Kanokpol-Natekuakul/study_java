@@ -1,3 +1,4 @@
+package Part1;
 class Variable2{
   public static void main(VarS[] args) {
     int a=100; //Global variable

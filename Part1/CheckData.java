@@ -1,3 +1,4 @@
+package Part1;
 class CheckData{
   public static void main(String[] args) {
 
