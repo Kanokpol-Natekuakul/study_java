@@ -1,4 +1,4 @@
-package Part1;
+ 
 class ChangeType{
   public static void main(VarS[] args) {
     // int num =10;

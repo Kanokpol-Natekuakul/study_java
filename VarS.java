@@ -1,4 +1,3 @@
-package Part1;
 class VarS{
   public static void main(String[] args) {
     String a = "100", b ="20";
